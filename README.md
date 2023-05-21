@@ -157,4 +157,4 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## RESULT
-Thus a Simple Android Application that uses GUI Components with Fonts and Colors using Android Studio is developed and executed successfully.
+Thus, a Simple Android Application that uses GUI Components with Fonts and Colors using Android Studio is developed and executed successfully.
